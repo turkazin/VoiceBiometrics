@@ -1,0 +1,6 @@
+tensorflow = 2.14.0
+librosa = 0.10.2
+plotly
+jupyter
+netron
+seaborn
