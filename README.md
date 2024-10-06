@@ -39,6 +39,13 @@ pip install -r requirements.txt
 2. Install the required packages using the `requirements.txt`.
 3. Open the Jupyter Notebook and run the code to perform training and testing on the provided data.
 
+## Citation
+
+If you use this code in your research, please cite it as follows:
+
+Khafiz T., "VoiceBiometrics" Zenodo, DOI: [[https://doi.org/10.5281/zenodo.13896129](https://doi.org/10.5281/zenodo.13896129)], 2024.
+
+
 ## Contact
 
 For any questions or if you need access to the dataset, you can contact me via email at **trrkhfz@gmail.com**. Please explain your reason for contacting and how you plan to use the dataset.
